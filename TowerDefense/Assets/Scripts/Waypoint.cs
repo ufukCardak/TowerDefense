@@ -18,6 +18,7 @@ public class Waypoint : MonoBehaviour
         {
             Instance = this;
         }
+        //11111111111111111
     }
 
     private void OnDrawGizmos()
