@@ -16,6 +16,7 @@ public class Turret : MonoBehaviour
     {
         GetCurrentEnemy();
         RotateToEnemy();
+        //qqqqqqqqqqqqqqqq
     }
 
     protected void GetCurrentEnemy()
